@@ -84,6 +84,11 @@ if __name__ == '__main__':
     # 需要处理的M3U列表
     m3u_urls = [
         'https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/Unicom-Shandong.m3u',
+        'https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/Telecom-Shandong.m3u',
+        'https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/Telecom-Shandong-Multicast.m3u',
+        'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u',
+        'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u',
+        
         # 添加更多URL...
     ]
 
